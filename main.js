@@ -82,7 +82,7 @@ function clean(text) {
 })
 
 try{
- client.login("ODUwNjc4ODQ4ODczOTU1MzM4.YLtOag.tzoa_2D_oWxCj7lwx8FOnW90Up4"); //TOKEN
+ client.login(""); //TOKEN
   }catch(e){
    console.log(`LOGIN ERROR. PLS CHECK TOKEN; ${e}`);
   };
