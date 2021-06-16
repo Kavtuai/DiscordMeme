@@ -1,0 +1,27 @@
+{
+  "version": "0.0.1",
+  "description": "discord.js v12 Meme Code.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "got": "^11.8.2",
+    "node-fetch": "^2.6.1",
+    "node-superfetch": "^0.2.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/Kavtuai/DiscordMeme"
+  },
+  "license": "MIT",
+  "keywords": [
+    "discord.js",
+    "discord.js meme code",
+    "discord.js v12"
+  ]
+}
