@@ -2,4 +2,4 @@
 
 # Install & Use
 
-- NPM Modüllerini daha kolay kurabilmeniz için konsola`npm install` yazınız.
+- Type `npm install` in the console so that you can install NPM Modules more easily.
